@@ -1,4 +1,6 @@
-# UnderlineInterview
+# Minesweeper
+
+Angular Minesweeper game, reverse engineered and not fully featured.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.1.
 
