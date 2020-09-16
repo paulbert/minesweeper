@@ -119,6 +119,12 @@
           }
         }
       }
-    }},
-  "defaultProject": "underline-interview"
+    }
+  },
+  "defaultProject": "underline-interview",
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "scss"
+    }
+  }
 }
